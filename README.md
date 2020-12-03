@@ -7,4 +7,6 @@
   <img align="left" alt="Email" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+<br/>
+
 #### Hey there! My name is [Antonio](https://benhid.com), I am a 🧑🏻‍💻 full-time software developer and 🔬 CS researcher.
